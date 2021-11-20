@@ -1,0 +1,7 @@
+POST http://localhost:3000/new-post
+Content-Type: application/json
+
+{
+    "title" : "5th data into database",
+    "author" : "Mumal Swami"
+}
